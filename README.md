@@ -6,8 +6,10 @@
 
  ¿Qué pasaría si la imagen esta guardada 
 en la misma carpeta de la página web? ¿Y si está en una carpeta superior? 
- Si la imagen estuviera en la misma carpeta que la página web, entonces no sería necesario poner el nombre de la carpeta, bastaría con escribir solo el nombre del archivo de la imagen.
-En cambio, si la imagen estuviera en una carpeta superior , habría que indicar en la ruta que se sube un nivel usando ../ antes del nombre del archivo de la imagen.
+ Si la imagen estuviera en la misma carpeta que la página web, entonces no sería necesario poner el nombre de la carpeta,
+ bastaría con escribir solo el nombre del archivo de la imagen.
+En cambio, si la imagen estuviera en una carpeta superior , habría que indicar en la ruta que se sube un nivel usando ../
+antes del nombre del archivo de la imagen.
 
 
 
@@ -17,4 +19,6 @@ Se consigue agregando el atributo target="_blank" dentro de la etiqueta <a>.
 
 El resultado obtenido es similar al esquema HTML mostrado en la figura de la introducción teórica 
 para elementos semánticos? ¿Por qué? 
-Sí, el resultado es similar al esquema de la introducción porque usa las etiquetas semánticas como <header>, , <section>, <article>> y <footer>. Eso hace que la página tenga una estructura clara y ordenada, parecida a la que se mostró en la teoría.
+Sí, el resultado es similar al esquema de la introducción porque usa las etiquetas semánticas como
+<header>, , <section>, <article>> y <footer>. Eso hace que la página tenga una estructura clara y ordenada, 
+ parecida a la que se mostró en la teoría.
